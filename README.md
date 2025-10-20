@@ -251,5 +251,5 @@ Mon 2025-10-20 13:24:30 UTC 4min 24s left Mon 2025-10-20 13:19:30 UTC 35s ago bo
 Pass --all to see loaded but inactive timers, too.
 root@u24cln28:~#
 ```
-![2-check_timers_screen](pics/image2.png)
+![2-check_timers_screen](pics/image2.PNG)
 ## Домашнее задание 28 выполнено
