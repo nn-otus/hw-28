@@ -14,7 +14,7 @@
 
 1. Устанавливаем на client и backup сервер borgbackup
 root@u22srv28:~# apt install borgbackup
-![1-group_command_screen](image1.png)
+![1-group_command_screen](pics/image1.png)
 2. Монтируем диск sdb в /var/backups
 ```
 root@u22srv28:~# mkfs.ext4 /dev/sdb
